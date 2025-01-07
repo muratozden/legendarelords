@@ -15,6 +15,7 @@ const clanData = {
 };
 
 // Log every message
+// Log every message
 bot.on('message', (msg) => {
     console.log('Incoming message:', msg.text);
 
@@ -112,7 +113,7 @@ function handleDeleteAnnouncement(msg, args) {
 
 // Admin check function
 function isAdmin(msg) {
-    const adminUsernames = ['muratozden']; // Replace with actual admin usernames
+    const adminUsernames = ['muratozden', 'bayrameken']; // Replace with actual admin usernames
     return adminUsernames.includes(msg.from.username);
 }
 
