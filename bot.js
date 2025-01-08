@@ -53,7 +53,9 @@ I’m here to assist you in every way possible!
 Let’s march toward victory! 🏆✨
 
 Usage commands:
+
 /list - List all active announcements
+
 /announcement - Add a new announcement (Admins only)
 /delete_announcement - Delete an announcement (Admins only)
     `;
