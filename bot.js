@@ -49,13 +49,14 @@ With this bot, you can easily track upcoming events, important announcements, an
 I’m here to assist you in every way possible!
 
 🎯 Don’t forget! Turn on notifications to make sure you never miss an event!
-
+ 
 Let’s march toward victory! 🏆✨
-
+ 
 Usage commands:
-/list - List all active announcements
+👉🏻 /list - List all active announcements
+ 
 
-(Admins only)
+👨‍✈️ Admins command only
 /announcement - Add a new announcement
 /delete_announcement - Delete an announcement
     `;
