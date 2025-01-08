@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const moment = require('moment-timezone');
 
 // Bot token
-const token = process.env.BOT_TOKEN;
+const token = "7707021366:AAGxNOEhtn63SmLDGC1dLzxnbUB0q0Vnu4A";
 
 // Create bot
 const bot = new TelegramBot(token, {
